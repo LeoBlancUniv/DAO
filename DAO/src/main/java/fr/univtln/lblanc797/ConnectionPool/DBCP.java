@@ -1,4 +1,4 @@
-package fr.univtln.lblanc797.DAO;
+package fr.univtln.lblanc797.ConnectionPool;
 
 import fr.univtln.lblanc797.App;
 import org.apache.commons.dbcp2.BasicDataSource;
